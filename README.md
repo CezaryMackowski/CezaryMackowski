@@ -19,6 +19,8 @@ My main OS is Linux(Pop_OS!/Debian)
 <br>
 ## Connect with me
 
-[<img align="center" alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/CezikLikeWhat)
-[<img align="center" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/CezikLikeWhat/)
+<p align="center">
+    <a href="https://t.me/CezikLikeWhat"><img alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="https://www.facebook.com/CezikLikeWhat/"><img alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
 
