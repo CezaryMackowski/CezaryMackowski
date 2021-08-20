@@ -14,6 +14,8 @@ I know: <br>
 
 
 My hobbies are cybersecurity and hacking.
+
+My main OS is Linux(Pop_OS!)
 <br>
 ## Connect with me
 <img align="left" alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />(https://t.me/CezikLikeWhat)
