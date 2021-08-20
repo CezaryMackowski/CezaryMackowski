@@ -10,7 +10,7 @@ I know: <br>
 - <img align="left" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br><br>
 - <img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /><br><br>
 - <img align="left" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /><br><br>
-- <img align="left" alt="Bash" src="https://img.shields.io/badge/Shell_Script-131315?style=for-the-badge&logo=gnu-bash&logoColor=white" /><br>
+- <img align="left" alt="Bash" src="https://img.shields.io/badge/Shell_Script-232326?style=for-the-badge&logo=gnu-bash&logoColor=white" /><br>
 
 
 My hobbies are cybersecurity and hacking.
