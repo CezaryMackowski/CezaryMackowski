@@ -1,5 +1,3 @@
-### Hello World!
-
 My name is Cezary Maćkowski. I come from Poland. I am a student at the Nicolaus Copernicus University. 
 I'm Currently learning:
 - <img align="left" alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /><br><br>
