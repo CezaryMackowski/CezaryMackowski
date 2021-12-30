@@ -1,6 +1,6 @@
 ### Hello World!
 
-My name is Cezary Maćkowski. I come from Poland. I am a student at the Nicolaus Copernicus University. 
+My name is Cezary Maćkowski. I'm from Poland. I'm a student at the Nicolaus Copernicus University. 
 I'm Currently learning:
 - <img align="left" alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /><br><br>
 - <img align="left" alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -15,7 +15,7 @@ I know: <br>
 
 My hobbies are cybersecurity and hacking.
 
-My main OS is Linux(Pop_OS!/Debian)
+My main OS is Linux(Pop_OS!/Debian) and MacOS.
 <br>
 ## Connect with me
 
