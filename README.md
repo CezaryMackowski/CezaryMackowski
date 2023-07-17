@@ -1,26 +1,24 @@
-### Hello World!
+## Hello World! 👋
 
-My name is Cezary Maćkowski. I'm from Poland. I'm a student at the Nicolaus Copernicus University. 
-I'm Currently learning:
-- <img align="left" alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /><br><br>
-- <img align="left" alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+### A bit about me
 
-I know: <br>
-- <img align="left" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /><br><br>
-- <img align="left" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br><br>
-- <img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /><br><br>
-- <img align="left" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /><br><br>
-- <img align="left" alt="Bash" src="https://img.shields.io/badge/Shell_Script-232326?style=for-the-badge&logo=gnu-bash&logoColor=white" /><br>
+- :call_me_hand: My name is Cezary Maćkowski.
+- :poland: I'm from Poland. 
+- :mortar_board: I'm a student at the Nicolaus Copernicus University (Master Degree in Computer Science Engineering).
+- :bulb: I'm currently working as a PHP Backend Developer.
+- :cloud: I know the basics of GCP and GitLab CI/CD.
+- :space_invader: My favorite languages are Python and Go.
+- :green_book: I'm currently learning .NET (ASP.NET).
+- :magnet: I'm a big fan of CLI, IoT and hacking.
+- :computer: My main OS is MacOS and Linux(Ubuntu).
 
+### Connect with me
+<div style="display: flex; justify-content: center">
+    <a style="padding-right: 5px" href="https://t.me/CezikLikeWhat"><img alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a style="padding-left: 5px" href="https://www.linkedin.com/in/cezary-ma%C4%87kowski-662194223/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
 
-My hobbies are cybersecurity and hacking.
-
-My main OS is Linux(Pop_OS!/Debian) and MacOS.
-<br>
-## Connect with me
-
-<p align="center">
-    <a href="https://t.me/CezikLikeWhat"><img alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-    <a href="https://www.facebook.com/CezikLikeWhat/"><img alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
-
+### Stats
+<div style="display: flex; justify-content: center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CezikLikeWhat&theme=2077">
+</div>
