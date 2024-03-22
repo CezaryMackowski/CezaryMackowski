@@ -14,7 +14,6 @@
 
 ### Connect with me
 <div style="display: flex; justify-content: center">
-    <a style="padding-right: 5px" href="https://t.me/CezikLikeWhat"><img alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
     <a style="padding-left: 5px" href="https://www.linkedin.com/in/cezary-ma%C4%87kowski-662194223/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
