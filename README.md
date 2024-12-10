@@ -7,8 +7,7 @@
 - :mortar_board: I'm a student at the Nicolaus Copernicus University (Master Degree in Computer Science Engineering).
 - :bulb: I'm currently working as a PHP Backend Developer.
 - :cloud: I know the basics of GCP and GitLab CI/CD.
-- :space_invader: My favorite languages are Python and Go.
-- :green_book: I'm currently learning .NET (ASP.NET).
+- :space_invader: My favorite language is Go.
 - :magnet: I'm a big fan of CLI, IoT and hacking.
 - :computer: My main OS is MacOS and Linux(Ubuntu).
 
