@@ -13,12 +13,12 @@
 
 ### Connect with me
 <div style="display: flex; justify-content: center">
-    <a style="padding-left: 5px" href="https://www.linkedin.com/in/cezary-ma%C4%87kowski-662194223/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a style="padding-left: 5px" href="https://www.linkedin.com/in/cezary-ma%C4%87kowski/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 ### Stats
 <div style="display: flex; justify-content: center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CezikLikeWhat&theme=2077">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CezaryMackowski&theme=2077">
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CezikLikeWhat&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CezaryMackowski&hide=html)
