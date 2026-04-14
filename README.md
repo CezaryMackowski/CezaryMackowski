@@ -17,5 +17,3 @@
 <div style="display: flex; justify-content: center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CezaryMackowski&theme=2077">
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CezaryMackowski&hide=html)
